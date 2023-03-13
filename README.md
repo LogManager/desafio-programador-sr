@@ -13,8 +13,6 @@ Para isto, você precisa criar um app de teste: https://developers.mercadolivre.
 
 Pode utilizar o ambiente de homologação do mercado livre mesmo, não é necessário publicar o app em produção.
 
-Também precisa criar um front end e back end desacoplados para criação de um produto simples.
-
 Desafio proposto:
 - 1 - Criar um app no mercado livre
     - 1.1 - Sincronizar contas no seu app e recuperar o access token ( e salvar no banco )
