@@ -5,7 +5,9 @@ Este teste tem como objetivo conhecer um pouco mais como você programa, e como 
 ## O que você precisa fazer
 
 1 - Você precisa criar um mecanismo para sincronizar contas do mercado livre e ressincronziar o token que expira de 6 em 6 horas
+
 2 - Ficar escutando os callbacks de pedidos e criar o pedido na base ou atualizar ele ( aqui tem que baixar pedido e os itens dele ). Criar uma tela para filtrar os pedidos por cliente e por período.
+
 
 Documentação: https://developers.mercadolivre.com.br/pt_br
 
